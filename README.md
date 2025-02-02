@@ -1,7 +1,6 @@
 # Final Project Django API
 
-This is a Django API for the Little Lemon restaurant.
-
+This is my implementation of the Project Requirements for the final Little Lemon API project using Django Rest Framework (DRF) as part of the APIs course from Meta.
 
 # Project Requirements
 
